@@ -1,4 +1,4 @@
-<template>
+<!--<template>
   <v-container>
     <v-row class="text-center">
       <v-col class="mb-4">
@@ -8,6 +8,10 @@
       </v-col>
     </v-row>
   </v-container>
+</template> -->
+
+<template>
+  <p class="font-semibold text-xl">Hello Vue</p>
 </template>
 
 <script>
