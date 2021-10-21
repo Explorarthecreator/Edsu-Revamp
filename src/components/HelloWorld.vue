@@ -1,18 +1,16 @@
-<!--<template>
+<template>
   <v-container>
     <v-row class="text-center">
       <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3 red--text">
           Welcome to Edsu Revamp 👀💪😁
         </h1>
+        <p class="font-semibold text-xl">Hello Vue</p>
       </v-col>
     </v-row>
   </v-container>
-</template> -->
-
-<template>
-  <p class="font-semibold text-xl">Hello Vue</p>
 </template>
+
 
 <script>
   export default {
