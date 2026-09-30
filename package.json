@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "node init && vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "build-css": "tailwindcss build src/local.css -o public/global.css"
+    "build-css": "node init && tailwindcss build src/local.css -o public/global.css"
   },
   "dependencies": {
     "@mdi/font": "^6.3.95",
